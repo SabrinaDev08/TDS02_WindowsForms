@@ -1,0 +1,10 @@
+C:\Users\Sabrina\source\repos\TDS02_WindowsForms\TDS02_WindowsForms\bin\Debug\TDS02_WindowsForms.exe.config
+C:\Users\Sabrina\source\repos\TDS02_WindowsForms\TDS02_WindowsForms\bin\Debug\TDS02_WindowsForms.exe
+C:\Users\Sabrina\source\repos\TDS02_WindowsForms\TDS02_WindowsForms\bin\Debug\TDS02_WindowsForms.pdb
+C:\Users\Sabrina\source\repos\TDS02_WindowsForms\TDS02_WindowsForms\obj\Debug\TDS02_WindowsForms.csproj.AssemblyReference.cache
+C:\Users\Sabrina\source\repos\TDS02_WindowsForms\TDS02_WindowsForms\obj\Debug\TDS02_WindowsForms.Form1.resources
+C:\Users\Sabrina\source\repos\TDS02_WindowsForms\TDS02_WindowsForms\obj\Debug\TDS02_WindowsForms.Properties.Resources.resources
+C:\Users\Sabrina\source\repos\TDS02_WindowsForms\TDS02_WindowsForms\obj\Debug\TDS02_WindowsForms.csproj.GenerateResource.cache
+C:\Users\Sabrina\source\repos\TDS02_WindowsForms\TDS02_WindowsForms\obj\Debug\TDS02_WindowsForms.csproj.CoreCompileInputs.cache
+C:\Users\Sabrina\source\repos\TDS02_WindowsForms\TDS02_WindowsForms\obj\Debug\TDS02_WindowsForms.exe
+C:\Users\Sabrina\source\repos\TDS02_WindowsForms\TDS02_WindowsForms\obj\Debug\TDS02_WindowsForms.pdb
